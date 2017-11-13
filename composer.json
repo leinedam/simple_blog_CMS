@@ -1,0 +1,19 @@
+{
+    "name": "madeleine/cms",
+    "require":{
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "autoload": {
+        "classmap": [
+            
+            "classes"
+            
+        ]
+    },
+    "authors": [
+        {
+            "name": "Madeleine Sangoi",
+            "email": "leinedam@gmail.com"
+        }
+    ]
+}
